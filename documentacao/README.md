@@ -1,0 +1,1 @@
+Esta pasta é exclusiva para as documentações relacionadas ao prjeto.

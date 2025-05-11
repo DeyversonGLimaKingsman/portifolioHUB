@@ -1,0 +1,1 @@
+Esta pasta é exclusiva para os conteúdos relacionados a projetos pessoais.

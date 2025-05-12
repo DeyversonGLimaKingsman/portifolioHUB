@@ -1,0 +1,29 @@
+Cronograma do Projeto: Portfólio HUB
+
+Objetivo: Desenvolver um portfólio digital com todos os projetos acadêmicos e pessoais organizados, documentados e versionados usando Git e GitHub.
+
+--------------------------------------------------------------
+| **Data**     | **Tarefa**                                                             | **Responsável**   | **Status**      |
+--------------------------------------------------------------
+| 01/05/2025   | Definir a estrutura do repositório (diretórios e organização)          | Deyverson         | Concluído       |
+| 02/05/2025   | Criar o repositório no GitHub e configurar Git localmente              | Deyverson         | Concluído       |
+| 03/05/2025   | Adicionar primeiros projetos e estruturar pastas                       | Deyverson         | Concluído       |
+| 04/05/2025   | Criar e documentar o arquivo README.md para o projeto principal        | Deyverson         | Concluído       |
+| 05/05/2025   | Iniciar documentação de projetos acadêmicos no diretório /documentacao | Deyverson         | Concluído       |
+| 06/05/2025   | Adicionar a documentação de um dos projetos acadêmicos                 | Deyverson         | Concluído       |
+| 07/05/2025   | Implementar alterações e commits regulares nos projetos                | Deyverson         | Concluído       |
+| 08/05/2025   | Fazer fork de um repositório público e enviar pull request             | Deyverson         | Concluído       |
+| 09/05/2025   | Realizar revisão de código e integrar pull requests                    | Deyverson         | Concluído       |
+| 10/05/2025   | Revisar e atualizar arquivos README.md dos projetos                    | Deyverson         | Concluído       |
+| 11/05/2025   | Organizar e fazer upload de todos os projetos para o GitHub            | Deyverson         | Em andamento    |
+| 11/05/2025   | Integrar o repositório com o LinkedIn                                  | Deyverson         | Pendente        |
+| 11/05/2025   | Preparar apresentação final (vídeo no YouTube)                         | Deyverson         | Pendente        |
+| 11/05/2025   | Submeter arquivo PDF com os registros da atividade                     | Deyverson         | Pendente        |
+--------------------------------------------------------------
+
+Observações:
+- As tarefas devem ser realizadas dentro dos prazos estabelecidos.
+- O status de cada tarefa será atualizado conforme o progresso.
+- A apresentação final será gravada e detalhará as principais funcionalidades e projetos no repositório.
+
+--------------------------------------------------------------

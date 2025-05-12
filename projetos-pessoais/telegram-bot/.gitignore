@@ -1,0 +1,21 @@
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Arquivos temporários do sistema
+*.log
+*.bak
+*.swp
+.DS_Store
+
+# Arquivo de token do bot (caso você use um arquivo separado para o token)
+token.txt
+
+# Ambiente virtual (se estiver usando)
+venv/
+env/
